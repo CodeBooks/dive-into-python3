@@ -1,7 +1,7 @@
 # Código do livro "Dive Into Python 3 (Mark Pilgrim - Apress)"
 
 
-'[Capa do livro](https://raw.githubusercontent.com/CodeBooks/intro-a-programacao-com-python/master/capa.gif'
+'[Capa do livro](https://raw.githubusercontent.com/CodeBooks/intro-a-programacao-com-python/master/capa.gif')
 
 O livro está disponível para leitura online nos links abaixo.
 
